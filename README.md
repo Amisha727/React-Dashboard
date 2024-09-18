@@ -1,1 +1,1 @@
-React-Dashboard 
+React-Dashboard -- Power Managment
