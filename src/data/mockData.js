@@ -432,115 +432,115 @@ export const mockPieData = [
 
 export const mockLineData = [
   {
-    id: "japan",
+    id: "Wind Speed",
     color: tokens("dark").greenAccent[500],
     data: [
       {
-        x: "plane",
+        x: "Rajasthan",
         y: 101,
       },
       {
-        x: "helicopter",
+        x: "Assam",
         y: 75,
       },
       {
-        x: "boat",
+        x: "Odisha",
         y: 36,
       },
       {
-        x: "train",
+        x: "Haryana",
         y: 216,
       },
       {
-        x: "subway",
+        x: "Delhi",
         y: 35,
       },
       {
-        x: "bus",
+        x: "MP",
         y: 236,
       },
       {
-        x: "car",
+        x: "Punjab",
         y: 88,
       },
       {
-        x: "moto",
+        x: "Mumbai",
         y: 232,
       },
       {
-        x: "bicycle",
+        x: "MH",
         y: 281,
       },
       {
-        x: "horse",
+        x: "TN",
         y: 1,
       },
       {
-        x: "skateboard",
+        x: "KTR",
         y: 35,
       },
       {
-        x: "others",
+        x: "Gujarat",
         y: 14,
       },
     ],
   },
   {
-    id: "france",
+    id: "Temperature",
     color: tokens("dark").blueAccent[300],
     data: [
       {
-        x: "plane",
+        x: "Rajasthan",
         y: 212,
       },
       {
-        x: "helicopter",
+        x: "TN",
         y: 190,
       },
       {
-        x: "boat",
+        x: "KTR",
         y: 270,
       },
       {
-        x: "train",
+        x: "Telegana",
         y: 9,
       },
       {
-        x: "subway",
+        x: "TN",
         y: 75,
       },
       {
-        x: "bus",
+        x: "Gujarat",
         y: 175,
       },
       {
-        x: "car",
+        x: "Mumbai",
         y: 33,
       },
       {
-        x: "moto",
+        x: "Punjab",
         y: 189,
       },
       {
-        x: "bicycle",
+        x: "Assam",
         y: 97,
       },
       {
-        x: "horse",
+        x: "Kashmir",
         y: 87,
       },
       {
-        x: "skateboard",
+        x: "Haryana",
         y: 299,
       },
       {
-        x: "others",
+        x: "Odisha",
         y: 251,
       },
     ],
   },
   {
-    id: "us",
+    id: "Peak Demand",
     color: tokens("dark").redAccent[200],
     data: [
       {
@@ -548,47 +548,47 @@ export const mockLineData = [
         y: 191,
       },
       {
-        x: "helicopter",
+        x: "TN",
         y: 136,
       },
       {
-        x: "boat",
+        x: "KTR",
         y: 91,
       },
       {
-        x: "train",
+        x: "Telegana",
         y: 190,
       },
       {
-        x: "subway",
+        x: "TN",
         y: 211,
       },
       {
-        x: "bus",
+        x: "Gujarat",
         y: 152,
       },
       {
-        x: "car",
+        x: "Mumbai",
         y: 189,
       },
       {
-        x: "moto",
+        x: "Punjab",
         y: 152,
       },
       {
-        x: "bicycle",
+        x: "Assam",
         y: 8,
       },
       {
-        x: "horse",
+        x: "Kashmir",
         y: 197,
       },
       {
-        x: "skateboard",
+        x: "Haryana",
         y: 107,
       },
       {
-        x: "others",
+        x: "Odisha",
         y: 170,
       },
     ],
